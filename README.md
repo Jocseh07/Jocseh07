@@ -19,10 +19,10 @@
 
 - **[Wallyt](https://josephmuturi.me/wallyt)**: personal finance, web and native. Balances are summed from transactions so they cannot drift, cross-currency transfers record both sides, and separate ledgers track what people owe you and what you owe. React 19, TanStack Start, Cloudflare Workers, D1, R2, Drizzle, Expo.
 - **[Settle](https://josephmuturi.me/nexus)**: a task manager built around a chat-style composer rather than a form. Type a task, pick a project and category inline, and it files itself. React 19, TanStack Start, Convex, Clerk, Polar.
-- **[Kagi](https://josephmuturi.me/kagi)**: a manga and light-novel reader that runs entirely in the browser and installs as a PWA. Library in SQLite-WASM on the device, offline chapters, CBZ export, optional sync through D1. React 19, TanStack Start, Drizzle, Cloudflare Workers.
 
 ## Open source
 
+- **[Kagi](https://github.com/Jocseh07/kagi)** · [live](https://josephmuturi.me/kagi): a manga and light-novel reader that runs entirely in the browser and installs as a PWA. Library in SQLite-WASM on the device, offline chapters, CBZ export, optional sync through D1. React 19, TanStack Start, Drizzle, Cloudflare Workers.
 - **[nbd-vramz](https://github.com/Jocseh07/nbd-vramz)**: lz4-compressed NVIDIA VRAM block device over NBD. Fork of nbd-vram with a slab page store, about 3x the pages in the same VRAM. C.
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code/pulls?q=author%3AJocseh07)**: a Pi provider over RPC, and a fix for the Done badge on a thread's first completion.
 
