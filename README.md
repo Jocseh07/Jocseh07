@@ -1,43 +1,40 @@
-# Joseph Muturi
+<h1 align="center">Hi, I'm Joseph Muturi 👋</h1>
+<p align="center">Fullstack developer in Nairobi. TypeScript from the database schema to the shipped app: React web, Expo Android, Hono APIs, Cloudflare Workers.</p>
 
-Fullstack developer in Nairobi. Three years building web and mobile products in TypeScript, from the database schema to the deployed app: data model, API, React web app, Expo Android app.
+<p align="center">
+  <a href="https://josephmuturi.me"><img src="https://img.shields.io/badge/Website-josephmuturi.me-E5532C?style=for-the-badge" alt="Website" /></a>
+  <a href="https://josephmuturi.me/linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:josephmkaranja07@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://josephmuturi.me/cv"><img src="https://img.shields.io/badge/CV-PDF-555555?style=for-the-badge" alt="CV" /></a>
+</p>
 
-**Now:** Fullstack Developer at Green Generation Initiative and FahariConnect.
-**Site:** [josephmuturi.me](https://josephmuturi.me) · **CV:** [josephmuturi.me/cv](https://josephmuturi.me/cv) · **LinkedIn:** [josephmuturi.me/linkedin](https://josephmuturi.me/linkedin)
+- 🔭 Working on climate and property platforms by day, and a set of side projects on Cloudflare Workers by night
+- 🌱 Learning systems programming in C and CUDA (see nbd-vramz)
 
 ## Where the work goes
 
-Most of my commits land in private organisation repositories, so the contribution graph only tells the story with private contributions shown. In the last year, across 4,600+ contributions:
-
-| Organisation | What I build there | Pull requests |
-|---|---|---|
-| Green Generation Initiative | ANGLE, the GGI website monorepo, GGI App (web + Expo) | 180+ |
-| KENAS AIMS | Staff app, client portal and Django backend for an accreditation management system | 170+ |
-| FahariConnect | Django REST API, business app, explorer web, Expo port, single-tenant client builds | 160+ |
-| ApigZ | Pig farm management web and Android apps | 35+ |
-| pingdotgg/t3code | Open source: a Pi provider over RPC, a thread completion badge fix | 2 |
+4,600+ contributions in the last year, almost all in private organisation repositories. The graph below is the honest count.
 
 ## Projects
 
-| | | |
-|---|---|---|
-| **GGI Monorepo** | Memberships, shop, donations, events, programmes, schools map. Turborepo, Hono, oRPC, Prisma. | [greengenerationinitiative.org](https://josephmuturi.me/ggi) |
-| **ANGLE / AYCA 2025** | Climate innovation platform, 3,576+ startups across 50 countries. AYCA 2025 ran on it. | [africayouthclimateassembly.org](https://josephmuturi.me/ayca) |
-| **FahariConnect** | Property marketplace: Django REST, React 19, Expo, per-client Docker deployments. | [business.fahariconnect.com](https://josephmuturi.me/fahariconnect) |
-| **Kagi** | Browser manga reader, SQLite-WASM library, offline chapters, D1 sync. | [kagi.josephmuturi.me](https://josephmuturi.me/kagi) |
-| **Emails** | Mail admin on Workers: D1 + R2 archive, threading fallbacks, roles. | [emails.josephmuturi.me](https://josephmuturi.me/emails) |
-| **Nexus** | Task manager with a chat-style composer. Convex, Clerk, Polar. | [nexus.josephmuturi.me](https://josephmuturi.me/nexus) |
-| **Wallyt** | Personal finance, web and native. Balances derived from transactions, multi-currency ledgers. | [wallyt.josephmuturi.me](https://josephmuturi.me/wallyt) |
-| **nbd-vramz** | lz4-compressed NVIDIA VRAM block device over NBD, in C. | [repo](https://github.com/Jocseh07/nbd-vramz) |
+- **[Wallyt](https://josephmuturi.me/wallyt)**: personal finance, web and native. Balances are summed from transactions so they cannot drift, cross-currency transfers record both sides, and separate ledgers track what people owe you and what you owe. React 19, TanStack Start, Cloudflare Workers, D1, R2, Drizzle, Expo.
+- **[Settle](https://josephmuturi.me/nexus)**: a task manager built around a chat-style composer rather than a form. Type a task, pick a project and category inline, and it files itself. React 19, TanStack Start, Convex, Clerk, Polar.
+- **[Kagi](https://josephmuturi.me/kagi)**: a manga and light-novel reader that runs entirely in the browser and installs as a PWA. Library in SQLite-WASM on the device, offline chapters, CBZ export, optional sync through D1. React 19, TanStack Start, Drizzle, Cloudflare Workers.
 
-## Stack
+## Open source
 
-**Frontend** React 19, TanStack Start / Router / Query / Form, Tailwind CSS 4, shadcn/ui, Base UI
-**Mobile** Expo, React Native, Expo Router, NativeWind, Uniwind
-**Backend** Hono, oRPC, NestJS, Bun, Django REST Framework, Better Auth, Clerk
-**Data** PostgreSQL, Prisma, Drizzle, SQLite, Cloudflare D1, Convex
-**Infra** Cloudflare Workers, R2, KV, Docker, GitHub Actions, nginx, Caddy, Turborepo
+- **[nbd-vramz](https://github.com/Jocseh07/nbd-vramz)**: lz4-compressed NVIDIA VRAM block device over NBD. Fork of nbd-vram with a slab page store, about 3x the pages in the same VRAM. C.
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code/pulls?q=author%3AJocseh07)**: a Pi provider over RPC, and a fix for the Done badge on a thread's first completion.
 
-## Contact
+## Languages and tools
 
-josephmkaranja07@gmail.com · [josephmuturi.me](https://josephmuturi.me)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,bun,nestjs,django,prisma,postgres,sqlite,cloudflare,docker,githubactions,nginx,git" alt="Languages and tools" />
+</p>
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jocseh07&show_icons=true&theme=dark&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocseh07&layout=compact&theme=dark&hide_border=true" height="160" alt="Top languages" />
+</p>
