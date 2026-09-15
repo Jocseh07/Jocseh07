@@ -8,7 +8,7 @@
   <a href="https://josephmuturi.me/cv"><img src="https://img.shields.io/badge/CV-PDF-555555?style=for-the-badge" alt="CV" /></a>
 </p>
 
-- 🔭 Working on climate and property platforms by day, and a set of side projects on Cloudflare Workers by night
+- 🔭 Working on web and mobile products by day, and a set of side projects on Cloudflare Workers by night
 - 🌱 Learning systems programming in C and CUDA (see nbd-vramz)
 
 ## Where the work goes
